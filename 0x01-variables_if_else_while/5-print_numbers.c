@@ -16,5 +16,5 @@ int main(void)
 	}
 
                 printf("\n");
-	return (0);5-print_numbers.c
+	return (0);
 }
