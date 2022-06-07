@@ -1,6 +1,6 @@
 #ifndef MAIN_H
 #define MAIN_H
 /* header file to declare function*/
-int putchar (char c);
+int _putchar (char c);
 
 #endif
