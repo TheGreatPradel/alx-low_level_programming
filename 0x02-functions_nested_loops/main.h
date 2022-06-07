@@ -1,3 +1,6 @@
-#define main.h
+#ifndef MAIN_H
+#define MAIN_H
 /* header file to declare function*/
-int _putchar (char c)
+int putchar (char c);
+
+#endif
