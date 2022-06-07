@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #include <stdio.h>
 
 /**
@@ -15,22 +14,18 @@ int main(void)
  {
 		for (digit2 = digit1 + 1; digit2 < 10; digit2++)
 		{
-			putchar((digit1 % 10) + 0);
-			putchar((digit2 % 10) + 0);
+			putchar((digit1 % 10) + '0');
+			putchar((digit2 % 10) + '0');
 
 			if (digit1 == 8 && digit2 == 9)
 				continue;
 			
-			putchar(,);
-			putchar( );
+			putchar(',');
+			putchar(' ');
 		}
 	}
 
-	putchar(n);
+	putchar('\n');
 
 	return (0);
 }
-}
-=======
-
->>>>>>> 5198c761e43aebf7c4d85ded852b6c2088607582
