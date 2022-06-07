@@ -24,8 +24,8 @@ int pint_sign(int n)
 	}
 	else (n < 0)
 	{
-		_putchar('-1');
-		return (-2);
+		_putchar('-');
+		return (-1);
 	}
 
 }
