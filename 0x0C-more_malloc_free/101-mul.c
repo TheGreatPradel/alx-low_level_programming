@@ -50,6 +50,7 @@ char *create_xarray(int size)
 
 	return (array);
 }
+
 /**
  * iterate_zeroes - Iterates through a string of numbers containing
  *                  leading zeroes until it hits a non-zero number.
@@ -85,6 +86,7 @@ int get_digit(char c)
 
 	return (digit);
 }
+
 /**
  * get_prod - Multiplies a string of numbers by a single digit.
  * @prod: The buffer to store the result.
@@ -228,3 +230,4 @@ int main(int argc, char *argv[])
 
 	return (0);
 }
+
