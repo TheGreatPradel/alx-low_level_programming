@@ -2,7 +2,7 @@
  * File: 4-free_list.c
  */
 
-#include "list.h"
+#include "lists.h"
 #include <stdlib.h>
 
 /**

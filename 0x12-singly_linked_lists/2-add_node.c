@@ -2,7 +2,7 @@
  * File: 2-add_node.c
  */
 
-#include "list.h"
+#include "lists.h"
 #include <string.h>
 
 /**
